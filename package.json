@@ -1,0 +1,32 @@
+{
+  "name": "ejercicios",
+  "version": "1.0.0",
+  "description": "How to be a pro kick-ass-javascript-development-sayajin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leoncii/JsExamples.git"
+  },
+  "keywords": [
+    "abort-fetch",
+    "call",
+    "apply",
+    "bind",
+    "closures",
+    "generators",
+    "promises",
+    "prototype",
+    "proxy",
+    "scope",
+    "this"
+  ],
+  "author": "letobev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leoncii/JsExamples/issues"
+  },
+  "homepage": "https://github.com/leoncii/JsExamples#readme"
+}
